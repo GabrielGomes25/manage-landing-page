@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Be Vietnam', sans-serif;
+
+}
+
+
+.section-1 img{
+    
+background-image: url("images/bg-tablet-pattern.svg");
+background-size: cover;
+background-repeat: no-repeat;
+margin-top: 20px;
+  
+}
+.section-2{
+    padding: 50px;
+}
+
+
+.button{
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    padding: 10px 0px;
+    background-color: hsl(12, 88%, 59%);
+}
+
+.button-2{
+     width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    padding: 10px 0px;
+    background-color: hsl(12, 88%, 59%);
+
+}
+.button-1{
+     width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    padding: 10px 0px;
+    background-color: hsl(12, 88%, 59%);
+
+}
+
+.button-0{
+    width: 120px;
+    height: 35px;
+    border-radius: 25px;
+    padding: 8px 0px;
+    background-color: hsl(12, 88%, 59%);
+    float: right!important;
+
+}
+.team-1,.team-2,.team-3,.team-4{
+    background-color: hsl(0, 0%, 98%);
+    
+}
+.section-4{
+    background-color: hsl(13, 100%, 96%);
+    padding: 50px;
+}
+.sec-2-img{
+
+    z-index: -1;
+}
+
+.footer{
+    padding: 50px;
+    background-color:hsl(227, 12%, 61%);
+    color: white;
+}
